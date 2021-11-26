@@ -62,18 +62,18 @@ html, body {
   }
 
 .informacyjny {
-    float: left;
    display: flex;
    justify-content: left;
    align-items: flex-start;
+   padding: 0px;
+   margin:0px;
     height: 100%;
     width: 20%;
     background-image: url(html-wallpaper.jpg);
     position: fixed;
-    background-position: 20% 50%;
+    background-position: 15% 50%;
     background-repeat: no-repeat;
     background-size: cover;
-   
 }
 .pasek {
     background-color: rgb(103, 187, 19);
