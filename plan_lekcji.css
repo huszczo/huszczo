@@ -18,7 +18,7 @@ html, body {
 }
 
 .bgimg {
-  background-image: url("plan_lekcji.jpg");
+  background-image: url("systemy_operacyjne.jpg");
   background-attachment: fixed;
   background-position: left;
   background-repeat: no-repeat;
@@ -152,5 +152,4 @@ html, body {
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(224, 224, 224);
 }
-
 
