@@ -20,7 +20,7 @@ html, body {
 .bgimg {
   background-image: url("plan_lekcji.jpg");
   background-attachment: fixed;
-  background-position: left;
+  background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
