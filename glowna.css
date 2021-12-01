@@ -106,6 +106,7 @@ html, body {
   justify-content: right;
   align-items: center;
   display: flex;
+  flex-direction: row;
 }
 .informacje {
     opacity: 0.98;
