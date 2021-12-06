@@ -2,17 +2,31 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="210mm"
    viewBox="0 0 210 210"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <metadata
+     id="metadata3817">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -25,14 +39,15 @@
      showgrid="false"
      height="210mm"
      inkscape:zoom="1"
-     inkscape:cx="543.5"
-     inkscape:cy="234.5"
+     inkscape:cx="81.569819"
+     inkscape:cy="424.374"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
-     inkscape:window-x="-9"
-     inkscape:window-y="29"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:snap-page="true" />
   <defs
      id="defs2">
     <filter
@@ -91,63 +106,69 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.8496px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.471244"
-       x="19.711367"
-       y="157.15703"
-       id="text11072"><tspan
+       style="font-style:normal;font-weight:normal;font-size:21.41996002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.53549898;"
+       x="-1.2442386"
+       y="143.37228"
+       id="text3821"><tspan
          sodipodi:role="line"
-         id="tspan11070"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia;fill:#999999;stroke-width:0.471244"
-         x="19.711367"
-         y="157.15703">HUSZCZO MICHAŁ</tspan></text>
+         id="tspan3819"
+         x="-1.2442386"
+         y="143.37228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.79974365px;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';stroke-width:0.53549898;fill:#1a1a1a;">H</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:149.84px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:15.9907;stroke-miterlimit:4;stroke-dasharray:none"
-       x="70.419006"
-       y="137.4084"
-       id="text1640"><tspan
+       style="font-style:normal;font-weight:normal;font-size:21.41996002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.53549898;"
+       x="74.086761"
+       y="143.30641"
+       id="text3821-9"><tspan
          sodipodi:role="line"
-         id="tspan1638"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia;fill:#1a1a1a;stroke-width:15.9907;stroke-miterlimit:4;stroke-dasharray:none"
-         x="70.419006"
-         y="137.4084">M</tspan></text>
+         id="tspan3819-7"
+         x="74.086761"
+         y="143.30641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.79974365px;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';stroke-width:0.53549898;fill:#1a1a1a;">M</tspan></text>
+    <text
+       id="text3843"
+       y="136.94638"
+       x="-1.2442386"
+       style="font-style:normal;font-weight:normal;font-size:21.41996002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.53549898;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.79974365px;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';fill:#999999;stroke-width:0.53549898;"
+         y="136.94638"
+         x="-1.2442386"
+         id="tspan3841"
+         sodipodi:role="line">H</tspan></text>
+    <text
+       id="text3847"
+       y="136.88052"
+       x="74.086761"
+       style="font-style:normal;font-weight:normal;font-size:21.41996002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.53549898;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.79974365px;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';fill:#999999;stroke-width:0.53549898;"
+         y="136.88052"
+         x="74.086761"
+         id="tspan3845"
+         sodipodi:role="line">M</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.8496px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.471244"
-       x="19.711367"
-       y="156.52443"
-       id="text12706"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.24255753px;line-height:1.25;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.50606394;"
+       x="2.2092974"
+       y="170.60318"
+       id="text3851"><tspan
          sodipodi:role="line"
-         id="tspan12704"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia;fill:#000000;stroke-width:0.471244"
-         x="19.711367"
-         y="156.52443">HUSZCZO MICHAŁ</tspan></text>
-    <path
-       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:3.65586px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 101.34834,34.927232 v 34.50212"
-       id="path17603" />
-    <path
-       id="text7110"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.74602"
-       d="m 101.89613,33.621615 c -2.4e-4,0.01431 2.4e-4,0.0415 0,0.05534 0.17646,2.643959 0.30635,5.948948 0.23422,7.616438 -0.0415,1.939837 -0.008,3.883808 -0.008,5.823915 -0.008,1.792253 -7.2e-4,3.585477 0,5.377603 4.1e-4,0.841481 1.2e-4,1.675775 0,2.516842 -4e-4,2.550697 0.37914,4.725702 1.00964,6.548216 v 62.050783 c 0,1.90226 0.34115,3.46306 1.02428,4.68259 0.68285,1.17034 1.75595,2.04844 3.21925,2.63375 0.82919,0.39104 2.36567,0.68258 4.60933,0.8774 2.19495,0.19483 3.87772,0.3413 5.04837,0.4394 v 5.19453 H 73.939399 v -5.19453 c 1.219399,-0.0415 2.902233,-0.29293 5.048361,-0.73232 2.097358,-0.43939 3.560671,-0.87742 4.389876,-1.31681 1.658362,-0.8774 2.780236,-1.9021 3.365558,-3.07286 0.53652,-1.17033 0.804717,-2.60958 0.804717,-4.31671 V 86.661966 H 38.747697 v 36.948084 c 0,1.90226 0.341151,3.46308 1.024286,4.68261 0.682857,1.17034 1.755947,2.04842 3.219239,2.63373 0.829323,0.39104 2.365656,0.68259 4.609331,0.87742 2.194939,0.19481 3.877723,0.34128 5.048364,0.43939 v 5.19452 H 9.5550549 v -5.19452 c 1.2193871,-0.0415 2.9022271,-0.29294 5.0483501,-0.73233 2.097363,-0.43939 3.56067,-0.8774 4.389895,-1.3168 1.658354,-0.8774 2.78022,-1.90224 3.365539,-3.07285 0.536531,-1.17035 0.804866,-2.60958 0.804866,-4.31673 V 47.957403 c 0,-1.609735 -0.268196,-3.097457 -0.804866,-4.463166 C 21.773533,42.127685 20.651654,41.153012 18.9933,40.567706 18.017789,40.22641 16.554454,39.861627 14.603405,39.470606 12.603594,39.07957 10.92081,38.859874 9.5550549,38.812884 V 33.618228 H 52.648917 v 5.194656 c -1.365715,0.09668 -2.975349,0.391037 -4.828847,0.877419 -1.90226,0.48775 -3.511895,1.048742 -4.828848,1.682819 -1.560844,0.732316 -2.658321,1.755919 -3.292403,3.072857 -0.634221,1.268439 -0.951192,2.682648 -0.951192,4.24347 V 80.150228 H 87.548483 V 47.95796 c 0,-1.609735 -0.268196,-3.097458 -0.804875,-4.463167 -0.585306,-1.366552 -1.707165,-2.341225 -3.365527,-2.926531 -0.975499,-0.341296 -2.438844,-0.706079 -4.389891,-1.097115 -1.999818,-0.391036 -3.682589,-0.610733 -5.048362,-0.657706 v -5.194656 z" />
+         id="tspan3849"
+         x="2.2092974"
+         y="170.60318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';stroke-width:0.50606394;fill:#4d4d4d;">HUSZCZO MICHAŁ</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:149.84px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:15.9907;stroke-miterlimit:4;stroke-dasharray:none"
-       x="70.335388"
-       y="132.48312"
-       id="text10285"><tspan
-         sodipodi:role="line"
-         id="tspan10283"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia;fill:#999999;stroke-width:15.9907;stroke-miterlimit:4;stroke-dasharray:none"
-         x="70.335388"
-         y="132.48312">M</tspan></text>
-    <path
-       style="fill:#999999;stroke:#999999;stroke-width:3.65586px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 101.25125,28.658132 v 34.50212"
-       id="path10287" />
-    <path
-       id="path10289"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.74602"
-       d="m 101.81252,28.696336 c -2.4e-4,0.01431 2.4e-4,0.0415 0,0.05534 0.17646,2.643959 0.30635,5.948948 0.23422,7.616438 -0.0415,1.939837 -0.008,3.883808 -0.008,5.823915 -0.008,1.792253 -7.2e-4,3.585477 0,5.377603 4.1e-4,0.841481 1.2e-4,1.675775 0,2.516842 -4e-4,2.550697 0.37914,4.725702 1.00964,6.548216 v 62.05078 c 0,1.90226 0.34115,3.46306 1.02428,4.68259 0.68285,1.17034 1.75595,2.04844 3.21925,2.63375 0.82919,0.39104 2.36567,0.68258 4.60933,0.8774 2.19495,0.19483 3.87772,0.3413 5.04837,0.4394 v 5.19453 H 73.85579 v -5.19453 c 1.2194,-0.0415 2.90223,-0.29293 5.04836,-0.73232 2.09736,-0.43939 3.56067,-0.87742 4.38988,-1.31681 1.65836,-0.8774 2.78023,-1.9021 3.36556,-3.07286 0.53652,-1.17033 0.80471,-2.60958 0.80471,-4.31671 V 81.736687 H 38.664085 v 36.948083 c 0,1.90226 0.341151,3.46308 1.024286,4.68261 0.682857,1.17034 1.755947,2.04842 3.219239,2.63373 0.829323,0.39104 2.365656,0.68259 4.609331,0.87742 2.194939,0.19481 3.877723,0.34128 5.048364,0.43939 v 5.19452 H 9.4714427 v -5.19452 c 1.2193873,-0.0415 2.9022273,-0.29294 5.0483503,-0.73233 2.097363,-0.43939 3.56067,-0.8774 4.389895,-1.3168 1.658354,-0.8774 2.78022,-1.90224 3.365539,-3.07285 0.536531,-1.17035 0.804866,-2.60958 0.804866,-4.31673 V 43.032124 c 0,-1.609735 -0.268196,-3.097457 -0.804866,-4.463166 -0.585306,-1.366552 -1.707185,-2.341225 -3.365539,-2.926531 -0.975511,-0.341296 -2.438846,-0.706079 -4.389895,-1.0971 -1.999811,-0.391036 -3.682595,-0.610732 -5.0483503,-0.657722 V 28.692949 H 52.565305 v 5.194656 c -1.365715,0.09668 -2.975349,0.391037 -4.828847,0.877419 -1.90226,0.48775 -3.511895,1.048742 -4.828848,1.682819 -1.560844,0.732316 -2.658321,1.755919 -3.292403,3.072857 -0.634221,1.268439 -0.951192,2.682648 -0.951192,4.24347 V 75.224949 H 87.46487 V 43.032681 c 0,-1.609735 -0.26819,-3.097458 -0.80487,-4.463167 -0.58531,-1.366552 -1.70717,-2.341225 -3.36553,-2.926531 -0.9755,-0.341296 -2.43884,-0.706079 -4.38989,-1.097115 -1.99982,-0.391036 -3.68259,-0.610733 -5.04836,-0.657706 v -5.194656 z" />
+       id="text3855"
+       y="169.54486"
+       x="2.2092974"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.24255753px;line-height:1.25;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.50606394;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';fill:#1a1a1a;stroke-width:0.50606394;"
+         y="169.54486"
+         x="2.2092974"
+         id="tspan3853"
+         sodipodi:role="line">HUSZCZO MICHAŁ</tspan></text>
   </g>
 </svg>
