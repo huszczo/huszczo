@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="index.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<style>
+
+</style>
+</head>
+<body>
+
+
+
+
+  <button onclick="topFunction()" id="myBtn" title="Go to top">&#10224;</button>
+<!--od menu -->
+
+  <script>
+    function openNav() {
+      document.getElementById("myNav").style.width = "auto";
+    }
+    
+    function closeNav() {
+      document.getElementById("myNav").style.width = "0";
+    }
+    </script>
+         
+  <!--Od skrola-->
+  <script>
+  //Get the button
+  var mybutton = document.getElementById("myBtn");
+  
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function() {scrollFunction()};
+  
+  function scrollFunction() {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+  
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+  </script>
+
+
+
+
+
+
+
+
+
+
+<div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <a href="plan_lekcji.html">PlanLekcji</a>
+    <a href="systemy_operacyjne.html">SystemyOperacyjne</a>
+    <a href="https://drive.google.com/drive/folders/1rbHJQakWZMrRe1ZD7X1iLtWrKLGJmkMg" target="_blank">3Ti_GoogleDrive</a>
+    <a href="https://piotrpolakedu.cba.pl" target="_blank">PiotrPolak</a>
+    <a href="https://rodzewicz.cal24.pl/index.php" target="_blank">TomaszRodzewicz</a>
+  </div>
+</div>
+
+<div class="kontener">
+    <div class="gorny">
+        <div style="font-size:30px;cursor:pointer" class="menu"onclick="openNav() ">&#9776; MENU</div>
+       <a class="home-link"href="index.html"><i class="material-icons">home</i> </a>
+    </div>
+  <div class="header">
+    
+
+<div class="szkola">
+
+</div>
+</div>
+<div class="pasek">
+  <p>&#10225;&#10225;&#10225;</p>
+</div>
+<div class="informacje">
+  
+</div>
+
+<div class="dane">
+
+  <div class="kontakt">
+          <p>
+              Michał Huszczo </p>
+                 <p>huszczom@gmail.com </p> 
+                              
+          
+      </div>
+      
+  </div>
+</div>
+
+
+
+
+
+</body>
+</html>
