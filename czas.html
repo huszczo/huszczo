@@ -1,100 +1,346 @@
-
 <!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odmiana czasowników łacińskich</title>
+    <title>Odmiana Czasowników Łacińskich</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
         }
+
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 20px;
+            margin: 20px 0;
+            font-size: 1em;
+            background-color: #fff;
+            box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
         }
-        table, th, td {
-            border: 1px solid black;
-        }
+
         th, td {
-            padding: 10px;
+            padding: 12px;
             text-align: center;
+            border-bottom: 1px solid #ddd;
         }
+
         th {
+            background-color: #6c7ae0;
+            color: white;
+        }
+
+        tr:nth-child(even) {
             background-color: #f2f2f2;
         }
-        h2 {
-            text-align: center;
-            margin-top: 20px;
+
+        tr:hover {
+            background-color: #ddd;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .tense-label {
+            background-color: #6c7ae0;
+            color: white;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
-    <h1>Odmiana czasowników łacińskich</h1>
 
-    <h2>I Koniugacja: <em>amare</em> (kochać)</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Tryb/Czas</th>
-                <th>Strona Czynna</th>
-                <th>Strona Bierna</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Indicativus Praesens</td>
-                <td>amo, amas, amat, amamus, amatis, amant</td>
-                <td>amor, amaris, amatur, amamur, amamini, amantur</td>
-            </tr>
-            <tr>
-                <td>Indicativus Imperfectum</td>
-                <td>amabam, amabas, amabat, amabamus, amabatis, amabant</td>
-                <td>amabar, amabaris, amabatur, amabamur, amabamini, amabantur</td>
-            </tr>
-            <tr>
-                <td>Indicativus Futurum I</td>
-                <td>amabo, amabis, amabit, amabimus, amabitis, amabunt</td>
-                <td>amabor, amaberis, amabitur, amabimur, amabimini, amabuntur</td>
-            </tr>
-            <tr>
-                <td>Indicativus Perfectum</td>
-                <td>amavi, amavisti, amavit, amavimus, amavistis, amaverunt</td>
-                <td>amatus sum, amatus es, amatus est, amati sumus, amati estis, amati sunt</td>
-            </tr>
-            <tr>
-                <td>Indicativus Plusquamperfectum</td>
-                <td>amaveram, amaveras, amaverat, amaveramus, amaveratis, amaverant</td>
-                <td>amatus eram, amatus eras, amatus erat, amati eramus, amati eratis, amati erant</td>
-            </tr>
-            <tr>
-                <td>Indicativus Futurum II</td>
-                <td>amavero, amaveris, amaverit, amaverimus, amaveritis, amaverint</td>
-                <td>amatus ero, amatus eris, amatus erit, amati erimus, amati eritis, amati erunt</td>
-            </tr>
-            <tr>
-                <td>Subiunctivus Praesens</td>
-                <td>amem, ames, amet, amemus, ametis, ament</td>
-                <td>amer, ameris, ametur, amemur, amemini, amentur</td>
-            </tr>
-            <tr>
-                <td>Subiunctivus Imperfectum</td>
-                <td>amarem, amares, amaret, amaremus, amaretis, amarent</td>
-                <td>amarer, amareris, amaretur, amaremur, amaremini, amarentur</td>
-            </tr>
-            <tr>
-                <td>Subiunctivus Perfectum</td>
-                <td>amaverim, amaveris, amaverit, amaverimus, amaveritis, amaverint</td>
-                <td>amatus sim, amatus sis, amatus sit, amati simus, amati sitis, amati sint</td>
-            </tr>
-            <tr>
-                <td>Subiunctivus Plusquamperfectum</td>
-                <td>amavissem, amavisses, amavisset, amavissemus, amavissetis, amavissent</td>
-                <td>amatus essem, amatus esses, amatus esset, amati essemus, amati essetis, amati essent</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="container">
+
+    <h1>Odmiana Czasowników Łacińskich - 4 Koniugacje</h1>
+
+    <!-- Koniugacja I -->
+    <div class="section">
+        <h2>Koniugacja I (amare - kochać)</h2>
+
+        <!-- Tabela dla strony czynnej -->
+        <h3>Strona czynna</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Osoba</th>
+                    <th>Teraźniejszy</th>
+                    <th>Przeszły niedokonany</th>
+                    <th>Przyszły</th>
+                    <th>Doskonały</th>
+                    <th>Zaprzeszły</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1. os. lp.</td>
+                    <td>amo</td>
+                    <td>amabam</td>
+                    <td>amabo</td>
+                    <td>amavi</td>
+                    <td>amaveram</td>
+                </tr>
+                <tr>
+                    <td>2. os. lp.</td>
+                    <td>amas</td>
+                    <td>amabas</td>
+                    <td>amabis</td>
+                    <td>amavisti</td>
+                    <td>amaveras</td>
+                </tr>
+                <tr>
+                    <td>3. os. lp.</td>
+                    <td>amat</td>
+                    <td>amabat</td>
+                    <td>amabit</td>
+                    <td>amavit</td>
+                    <td>amaverat</td>
+                </tr>
+                <tr>
+                    <td>1. os. lm.</td>
+                    <td>amamus</td>
+                    <td>amabamus</td>
+                    <td>amabimus</td>
+                    <td>amavimus</td>
+                    <td>amaveramus</td>
+                </tr>
+                <tr>
+                    <td>2. os. lm.</td>
+                    <td>amatis</td>
+                    <td>amabatis</td>
+                    <td>amabitis</td>
+                    <td>amavistis</td>
+                    <td>amaveratis</td>
+                </tr>
+                <tr>
+                    <td>3. os. lm.</td>
+                    <td>amant</td>
+                    <td>amabant</td>
+                    <td>amabunt</td>
+                    <td>amaverunt</td>
+                    <td>amaverant</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Tabela dla strony biernej -->
+        <h3>Strona bierna</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Osoba</th>
+                    <th>Teraźniejszy</th>
+                    <th>Przeszły niedokonany</th>
+                    <th>Przyszły</th>
+                    <th>Doskonały</th>
+                    <th>Zaprzeszły</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1. os. lp.</td>
+                    <td>amor</td>
+                    <td>amabar</td>
+                    <td>amabor</td>
+                    <td>amatus sum</td>
+                    <td>amatus eram</td>
+                </tr>
+                <tr>
+                    <td>2. os. lp.</td>
+                    <td>amaris</td>
+                    <td>amabaris</td>
+                    <td>amaberis</td>
+                    <td>amatus es</td>
+                    <td>amatus eras</td>
+                </tr>
+                <tr>
+                    <td>3. os. lp.</td>
+                    <td>amatur</td>
+                    <td>amabatur</td>
+                    <td>amabitur</td>
+                    <td>amatus est</td>
+                    <td>amatus erat</td>
+                </tr>
+                <tr>
+                    <td>1. os. lm.</td>
+                    <td>amamur</td>
+                    <td>amabamur</td>
+                    <td>amabimur</td>
+                    <td>amati sumus</td>
+                    <td>amati eramus</td>
+                </tr>
+                <tr>
+                    <td>2. os. lm.</td>
+                    <td>amamini</td>
+                    <td>amabamini</td>
+                    <td>amabimini</td>
+                    <td>amati estis</td>
+                    <td>amati eratis</td>
+                </tr>
+                <tr>
+                    <td>3. os. lm.</td>
+                    <td>amantur</td>
+                    <td>amabantur</td>
+                    <td>amabuntur</td>
+                    <td>amati sunt</td>
+                    <td>amati erant</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Koniugacja II -->
+    <div class="section">
+        <h2>Koniugacja II (videre - widzieć)</h2>
+
+        <!-- Tabela dla strony czynnej -->
+        <h3>Strona czynna</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Osoba</th>
+                    <th>Teraźniejszy</th>
+                    <th>Przeszły niedokonany</th>
+                    <th>Przyszły</th>
+                    <th>Doskonały</th>
+                    <th>Zaprzeszły</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1. os. lp.</td>
+                    <td>video</td>
+                    <td>videbam</td>
+                    <td>videbo</td>
+                    <td>vidi</td>
+                    <td>videram</td>
+                </tr>
+                <tr>
+                    <td>2. os. lp.</td>
+                    <td>vides</td>
+                    <td>videbas</td>
+                    <td>videbis</td>
+                    <td>vidisti</td>
+                    <td>videras</td>
+                </tr>
+                <tr>
+                    <td>3. os. lp.</td>
+                    <td>videt</td>
+                    <td>videbat</td>
+                    <td>videbit</td>
+                    <td>vidit</td>
+                    <td>viderat</td>
+                </tr>
+                <tr>
+                    <td>1. os. lm.</td>
+                    <td>videmus</td>
+                    <td>videbamus</td>
+                    <td>videbimus</td>
+                    <td>vidimus</td>
+                    <td>videramus</td>
+                </tr>
+                <tr>
+                    <td>2. os. lm.</td>
+                    <td>videtis</td>
+                    <td>videbatis</td>
+                    <td>videbitis</td>
+                    <td>vidistis</td>
+                    <td>videratis</td>
+                </tr>
+                <tr>
+                    <td>3. os. lm.</td>
+                    <td>vident</td>
+                    <td>videbant</td>
+                    <td>videbunt</td>
+                    <td>viderunt</td>
+                    <td>viderant</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Tabela dla strony biernej -->
+        <h3>Strona bierna</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Osoba</th>
+                    <th>Teraźniejszy</th>
+                    <th>Przeszły niedokonany</th>
+                    <th>Przyszły</th>
+                    <th>Doskonały</th>
+                    <th>Zaprzeszły</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1. os. lp.</td>
+                    <td>videor</td>
+                    <td>videbar</td>
+                    <td>videbor</td>
+                    <td>visus sum</td>
+                    <td>visus eram</td>
+                </tr>
+                <tr>
+                    <td>2. os. lp.</td>
+                    <td>videris</td>
+                    <td>videbaris</td>
+                    <td>videberis</td>
+                    <td>visus es</td>
+                    <td>visus eras</td>
+                </tr>
+                <tr>
+                    <td>3. os. lp.</td>
+                    <td>videtur</td>
+                    <td>videbatur</td>
+                    <td>videbitur</td>
+                    <td>visus est</td>
+                    <td>visus erat</td>
+                </tr>
+                <tr>
+                    <td>1. os. lm.</td>
+                    <td>videmur</td>
+                    <td>videbamur</td>
+                    <td>videbimur</td>
+                    <td>visi sumus</td>
+                    <td>visi eramus</td>
+                </tr>
+                <tr>
+                    <td>2. os. lm.</td>
+                    <td>videmini</td>
+                    <td>videbamini</td>
+                    <td>videbimini</td>
+                    <td>visi estis</td>
+                    <td>visi eratis</td>
+                </tr>
+                <tr>
+                    <td>3. os. lm.</td>
+                    <td>videntur</td>
+                    <td>videbantur</td>
+                    <td>videbuntur</td>
+                    <td>visi sunt</td>
+                    <td>visi erant</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Koniugacja III (mittere) i IV (audire), oraz Verba Deponentia -->
+    <!-- Możesz dodać w podobny sposób jak powyższe -->
+
+</div>
+
 </body>
 </html>
