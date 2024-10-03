@@ -57,6 +57,42 @@
         li {
             margin-bottom: 8px;
         }
+        
+/* Responsywność */
+@media (max-width: 768px) {
+    th, td {
+        padding: 8px;
+        font-size: 14px;
+    }
+    
+    h1, h2 {
+        font-size: 1.2em;
+    }
+    
+    table {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    th, td {
+        padding: 6px;
+        font-size: 12px;
+    }
+    
+    h1, h2 {
+        font-size: 1em;
+    }
+    
+    table {
+        font-size: 0.8em;
+    }
+    
+    /* Usunięcie cieni na małych ekranach, aby tabela była lżejsza */
+    table {
+        box-shadow: none;
+    }
+}
     </style>
 </head>
 <body>
