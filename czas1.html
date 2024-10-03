@@ -5,18 +5,81 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Odmiana czasownika "amare"</title>
     <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
+        
+        /* Ogólne style dla tabeli */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    color: #333;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Style dla sekcji nagłówków */
+thead th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Pogrubienie nagłówków trybu */
+td[rowspan] {
+    font-weight: bold;
+    background-color: #e7f3e7;
+    color: #333;
+}
+
+/* Kolorowanie dla strony czynnej i biernej */
+td:nth-child(3) {
+    background-color: #d1e7dd;
+}
+
+td:nth-child(4) {
+    background-color: #f8d7da;
+}
+
+/* Stylowanie dolnej części - Subiunctivus */
+tbody tr:nth-last-child(4), /* Zaznacza 4 ostatnie wiersze (subiunctivus) */
+tbody tr:nth-last-child(3),
+tbody tr:nth-last-child(2),
+tbody tr:nth-last-child(1) {
+    background-color: #e9ecef;
+    font-style: italic;
+}
+
+/* Stylowanie dla wierszy aktywnych */
+td:hover {
+    background-color: #ddd;
+}
+
+/* Media query dla urządzeń mobilnych */
+@media (max-width: 768px) {
+    table {
+        font-size: 14px;
+    }
+    th, td {
+        padding: 8px;
+    }
+}
     </style>
 </head>
 <body>
